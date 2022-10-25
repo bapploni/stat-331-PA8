@@ -1,5 +1,6 @@
 ---
 title: "PA8"
+author: "Jacky Wu", "Brady Applonie", "Antonio da Silva", "Sebastian Boksem"
 format: html
 editor: visual
 ---
